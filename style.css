@@ -49,3 +49,7 @@ section div {
     justify-content: space-around;
     text-align: left;
 }
+
+img{
+    max-width: 100%;
+}
